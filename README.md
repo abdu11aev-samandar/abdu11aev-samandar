@@ -18,4 +18,8 @@ Skills: PHP / MySQL /  JS  / HTML / CSS / Linux
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=xkas01&show_icons=true)  
 
+#### Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ![GitHub metrics](https://metrics.lecoq.io/xkas01)  
