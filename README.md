@@ -9,7 +9,6 @@ Skills: PHP / MySQL /  JS  / HTML / CSS / Linux
 - 🔭 I’m currently working on Local company and Freelancer 
 - 🌱 I’m currently learning Python, Go and Cyber Security 
 - 📫 How to reach me: xkas2001@gmail.com 
-- ⚡ Fun fact: PHP Forever 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xkas01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/samandar-abdullayev-9b13891b7/)  
