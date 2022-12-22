@@ -20,6 +20,16 @@ Skills: PHP / MySQL /  JS  / HTML / CSS / Linux
 
 #### Coding Stats
 <!--START_SECTION:waka-->
+
+```text
+Markdown         30 mins         ████████▒░░░░░░░░░░░░░░░░   33.74 %
+JavaScript       24 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.18 %
+Blade Template   18 mins         █████░░░░░░░░░░░░░░░░░░░░   20.34 %
+YAML             7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
+GitIgnore file   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+textmate         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+```
+
 <!--END_SECTION:waka-->
 
 ![GitHub metrics](https://metrics.lecoq.io/xkas01)  
