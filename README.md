@@ -11,7 +11,7 @@ Skills: PHP / MySQL /  JS  / HTML / CSS / Linux
 - 📫 How to reach me: xkas2001@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xkas01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/samandar-abdullayev-9b13891b7/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/xkas01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samandar-abdullayev-9b13891b7/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xkas01)](https://github.com/anuraghazra/github-readme-stats)
 
