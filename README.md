@@ -1,3 +1,5 @@
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80">
+
 ### Hi there 👋, my name is Samandar
 #### Backend and Development
 ![Backend and Development](https://media.licdn.com/dms/image/D4D16AQFaK_-uRU5wUw/profile-displaybackgroundimage-shrink_350_1400/0/1669816961474?e=1677110400&v=beta&t=ODj2UIr3PdSD4K8tSdMPMX6smbxNDmI56ZVkusNKWac)
