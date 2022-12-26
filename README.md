@@ -23,8 +23,7 @@ Skills: PHP / MySQL /  JS  / HTML / CSS / Linux
 <!--START_SECTION:waka-->
 
 ```text
-PHP              3 hrs 2 mins    ████████░░░░░░░░░░░░░░░░░   31.91 %
-Other            2 hrs 44 mins   ███████▒░░░░░░░░░░░░░░░░░   28.75 %
+Other            4 hrs 17 mins   ████████▒░░░░░░░░░░░░░░░░   33.84 %
 ```
 
 <!--END_SECTION:waka-->
