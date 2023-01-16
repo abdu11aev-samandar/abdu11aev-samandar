@@ -23,9 +23,11 @@ Skills: PHP / MySQL /  JS  / HTML / CSS / Linux
 <!--START_SECTION:waka-->
 
 ```text
-PHP              3 hrs 56 mins   █████████████▓░░░░░░░░░░░   54.22 %
-Blade Template   2 hrs 10 mins   ███████▒░░░░░░░░░░░░░░░░░   29.93 %
-Other            25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+PHP              3 hrs 22 mins   ██████████████░░░░░░░░░░░   55.91 %
+Blade Template   1 hr 59 mins    ████████▒░░░░░░░░░░░░░░░░   32.95 %
+Bash             22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+Markdown         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+.env file        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
