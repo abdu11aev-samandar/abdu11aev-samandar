@@ -45,11 +45,9 @@
 <!--   grid-snake -->
 ![](https://github.com/xkas01/xkas01/blob/output/github-contribution-grid-snake.svg)
 
-<!--   skyline -->
-<a href="https://skyline.github.com/xkas01/2022"><img src="./assets/img.png" alt="" width="auto" height="auto" /></a>
+[//]: # (<!--   skyline -->)
 
-
-<script src="./assets/xkas01-2022.stl"></script>
+[//]: # (<a href="https://skyline.github.com/xkas01/2022"><img src="./assets/img.png" alt="" width="auto" height="auto" /></a>)
 
 
 [//]: # (<!--  2d history skills -->)
@@ -79,12 +77,11 @@
 <img src="https://profile-counter.glitch.me/xkas01/count.svg">  
 
 counting of visitors to this page in this section started from May 8, 2022
+
 <a href="https://info.flagcounter.com/blXS"><img src="https://s11.flagcounter.com/count2/blXS/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 ### Profile Views
 counting of visitors to this page in this section started from June 12, 2022
-
-<br>
 
 ![](https://count.getloli.com/get/@xkas01.github.readme)
 </br>
