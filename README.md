@@ -29,7 +29,9 @@
 | **Tools & Platform**  | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JS-FF6600?style=for-the-badge&logo=js&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
 <!--   GitHub stats graph -->
+
 ### 📈 GitHub Activity Graph:
+
 [![Samandar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=xkas01&theme=github-compact)](https://github.com/xkas01/github-readme-activity-graph)
 
 | .                                                                                                                                             | .                                                                                                                              |
@@ -45,9 +47,10 @@
 <!--   grid-snake -->
 ![](https://github.com/xkas01/xkas01/blob/output/github-contribution-grid-snake.svg)
 
-[//]: # (<!--   skyline -->)
+<!--   skyline -->
+**Click 👇**
 
-[//]: # (<a href="https://skyline.github.com/xkas01/2022"><img src="./assets/img.png" alt="" width="auto" height="auto" /></a>)
+<a href="https://skyline.github.com/xkas01/2022"><img src="./assets/img.png" alt="" width="auto" height="auto" /></a>
 
 
 [//]: # (<!--  2d history skills -->)
@@ -60,7 +63,7 @@
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://www.linkedin.com/in/samandar-abdullayev-9b13891b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="mailto:xkas2001@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="xkas2001@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 <a href="https://t.me/Muhammad_al_Xorazmiy" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/Telegram-1572B6.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> </a>
 </p>
 
@@ -84,6 +87,7 @@ counting of visitors to this page in this section started from May 8, 2022
 <a href="https://info.flagcounter.com/blXS"><img src="https://s11.flagcounter.com/count2/blXS/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 ### Profile Views
+
 counting of visitors to this page in this section started from June 12, 2022
 
 ![](https://count.getloli.com/get/@xkas01.github.readme)
@@ -97,7 +101,7 @@ counting of visitors to this page in this section started from June 12, 2022
 ---
 Would you like to meet me?
 
-If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
-
+If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd
+like to meet me and chat about proposals and ideas - but make sure to describe the agenda
 
 ![](assets/Bottom_down.svg)
