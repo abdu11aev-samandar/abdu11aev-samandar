@@ -57,14 +57,15 @@
 
 [//]: # (<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=BEPb&skills=JavaScript,Jupyter-Notebook,PHP,Shell,Python,C,Java,HTML" width="auto"></img>)
 
+#### Coding Stats
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 **📫 How to Reach me:**
 <p align="left">
 <a href="https://www.linkedin.com/in/samandar-abdullayev-9b13891b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="xkas2001@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://t.me/Muhammad_al_Xorazmiy" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/Telegram-1572B6.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> </a>
+<a href="mailto:xkas2001@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://t.me/Muhammad_al_Xorazmiy" alt="Connect on Telegram"> <img src="https://img.shields.io/badge/Telegram-1572B6.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> </a>
 </p>
 
 <div align="center">
